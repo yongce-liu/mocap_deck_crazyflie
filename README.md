@@ -1,7 +1,7 @@
 # mocap_marker_deck
 - Motion Capture Marker Deck (PCB & Gerber Files) for Crazyflie 2.x.
 - The preview is shown as follows.
-![pcb_preview](./Gerber_MoCap_Marker_Deck.png)
+![pcb_preview](./MoCap_Marker_Deck.png)
 
 # Project Inheritance
 [crazyflie2-exp-template-electronics](https://github.com/bitcraze/crazyflie2-exp-template-electronics) is a expansion board template for Crazyflie 2.x provided from [Bitcraze](https://bitcraze.io/)
