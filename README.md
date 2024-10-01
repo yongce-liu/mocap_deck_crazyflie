@@ -2,9 +2,9 @@
 
 - (Active/Passive) Motion Capture Marker Deck (PCB & Gerber Files) for Crazyflie 2.x. The preview is shown as follows.
 - Passive
-  ![pcb_preview](./Passive//MoCap_Marker_Deck.png)
+  ![pcb_preview](./Passive/PassiveMocapDeck.png)
 - Active
-  ![active_pcb](./Active/PCB_Active_MoCap_Deck.png)
+  ![active_pcb](./Active/ActiveMoCapDeck.png)
 
 # Note
 
